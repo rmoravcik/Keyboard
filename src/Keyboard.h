@@ -83,6 +83,8 @@
 #define KEY_F23       0xFA
 #define KEY_F24       0xFB
 
+#define KEY_VOLUME_UP   0xFE
+#define KEY_VOLUME_DOWN 0xFF
 
 //  Low level key report: up to 6 keys and shift, ctrl etc at once
 typedef struct
